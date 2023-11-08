@@ -12,9 +12,8 @@ Simplifying fractions calculator to reduce fractions. Simplify proper and improp
 3. Activate the [Simplifying Fractions Calculator](https://www.calculator.io/simplifying-fractions-calculator/ "Simplifying Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_simplifying_fractions_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Simplifying Fractions Calculator to the sidebar through the `Appearance -> Widgets -> Simplifying Fractions Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_simplifying_fractions_calculator(); ?>` to your template where you would like the Simplifying Fractions Calculator to appear.
+* Add the shortcode `[ci_simplifying_fractions_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_simplifying_fractions_calculator(); ?>` to your template where you would like the Simplifying Fractions Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/

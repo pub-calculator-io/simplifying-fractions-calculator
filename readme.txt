@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Simplifying Fractions Calculator](https://www.calculator.io/simplifying-fractions-calculator/ "Simplifying Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_simplifying_fractions_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Simplifying Fractions Calculator to the sidebar through the `Appearance -> Widgets -> Simplifying Fractions Calculator` menu in WordPress.
+* Add the shortcode `[ci_simplifying_fractions_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_simplifying_fractions_calculator(); ?>` to your template where you would like the Simplifying Fractions Calculator to appear.
 
 == Screenshots ==

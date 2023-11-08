@@ -1,4 +1,4 @@
-=== Simplifying Fractions Calculator by Calculator.iO ===
+# Simplifying Fractions Calculator by Calculator.iO
 Contributors: calculatorio
 Tags: 
 Requires at least: 5.0
@@ -9,11 +9,11 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Simplifying fractions calculator to reduce fractions. Simplify proper and improper fractions and convert improper fractions to mixed numbers.
 
-== Description ==
+## Description
 
 Simplifying fractions calculator to reduce fractions. Simplify proper and improper fractions and convert improper fractions to mixed numbers.
 
-__Shortcode__
+### Shortcode
 
 Use the Simplifying Fractions Calculator shortcode:
 
@@ -27,21 +27,21 @@ Libraries in use:
 5. https://air-datepicker.com/
 6. https://www.chartjs.org/
 
-== Installation ==
+## Installation
 
 1. Upload the /ci_simplifying_fractions_calculator/ folder to the /wp-content/plugins/ directory.
 2. Activate the [Simplifying Fractions Calculator](https://www.calculator.io/simplifying-fractions-calculator/ "Simplifying Fractions Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
-== Usage ==
+## Usage
 * Add the shortcode `[ci_simplifying_fractions_calculator]` to your page or post and configure default mortgage parameters.
 * If you are using widgets, just add the Simplifying Fractions Calculator to the sidebar through the `Appearance -> Widgets -> Simplifying Fractions Calculator` menu in WordPress.
 * Add the following code: `<?php display_ci_simplifying_fractions_calculator(); ?>` to your template where you would like the Simplifying Fractions Calculator to appear.
 
-== Screenshots ==
+## Screenshots
 1. The Simplifying Fractions Calculator Input Form.
 2. The Simplifying Fractions Calculator Calculation Results.
 
-== Changelog ==
+## Changelog
 
-= 1.0.0 =
+### 1.0.0
 * Initial release

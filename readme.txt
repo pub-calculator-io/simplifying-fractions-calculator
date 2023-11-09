@@ -13,6 +13,8 @@ Simplifying fractions calculator to reduce fractions. Simplify proper and improp
 
 Simplifying fractions calculator to reduce fractions. Simplify proper and improper fractions and convert improper fractions to mixed numbers.
 
+[Simplifying Fractions Calculator Homepage](https://www.calculator.io/simplifying-fractions-calculator/ "Simplifying Fractions Calculator Homepage")
+
 __Shortcode__
 
 Use the Simplifying Fractions Calculator shortcode:

@@ -1,6 +1,6 @@
 === Simplifying Fractions Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: simplifying fractions calculator, reducing fractions, proper and improper fraction simplification, converting fractions to mixed numbers, fraction reduction methods, simplifying complex fractions, mathematical fraction simplification, easy fraction conversion, fraction calculation tool, mixed number generation from fractions
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0

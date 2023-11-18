@@ -1,4 +1,4 @@
-# Simplifying Fractions Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Simplifying Fractions Calculator Widget for WordPress
 
 Simplifying fractions calculator to reduce fractions. Simplify proper and improper fractions and convert improper fractions to mixed numbers.
 

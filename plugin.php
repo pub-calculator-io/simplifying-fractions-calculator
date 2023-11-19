@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Simplifying Fractions Calculator by www.calculator.io
+Plugin Name: CI Simplifying fractions calculator
 Plugin URI: https://www.calculator.io/simplifying-fractions-calculator/
 Description: Simplifying fractions calculator to reduce fractions. Simplify proper and improper fractions and convert improper fractions to mixed numbers.
 Version: 1.0.0

@@ -1,4 +1,4 @@
-=== Simplifying Fractions Calculator ===
+=== Simplifying Fractions Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: simplifying fractions calculator, reducing fractions, proper and improper fraction simplification, converting fractions to mixed numbers, fraction reduction methods, simplifying complex fractions, mathematical fraction simplification, easy fraction conversion, fraction calculation tool, mixed number generation from fractions
 Requires at least: 5.0

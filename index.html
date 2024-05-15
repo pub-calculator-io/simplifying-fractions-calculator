@@ -32,9 +32,10 @@
                 			
                 		
                 			<div class="input-field input-field--fraction col">
-                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" placeholder="0" id="fraction_number_top" value="14"  />
-                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" placeholder="0" id="fraction_number_bottom" value="3"  />
+                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" id="fraction_number_num" value="14"  />
+                				<input type="number" oninput="setMaxLength(this, 999)" class="input-field__input" id="fraction_number_denom" value="3"  />
                 			</div>
+                		
                 		</label>	</div>
                 </div>
                 
@@ -43,14 +44,17 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
-                	<script type="text/javascript" src="./assets/js/fractions.js"></script>
+                	<script type="text/javascript" src="./assets/js/lib/math.min.js" async></script>
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                	<script type="text/javascript" src="./assets/js/fractions.js" defer></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -65,11 +69,10 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<p class="table-cell table-cell--dark table-cell--only-title">Simplified Fraction</p>
-	<div class="table-cell table-cell--fraction row">
+	<div class="table-cell table-cell--fraction row animate">
 		<p class="result-text" id="numberWhole">4</p>
 		<div class="col fraction-text" id="numberFrac">
 			<p class="result-text text-center" id="numberNum">2</p>

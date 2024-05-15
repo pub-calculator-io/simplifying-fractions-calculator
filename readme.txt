@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Simplifying Fra
 == Screenshots ==
 
 1. The Simplifying Fractions Calculator Input Form.
-2. The Simplifying Fractions Calculator Calculation Results.
 
 == Installation ==
 

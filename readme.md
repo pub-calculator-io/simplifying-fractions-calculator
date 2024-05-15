@@ -3,7 +3,6 @@
 Simplifying fractions calculator to reduce fractions. Simplify proper and improper fractions and convert improper fractions to mixed numbers.
 
 ![Simplifying Fractions Calculator Input Form](/assets/images/screenshot-1.png "Simplifying Fractions Calculator Input Form")
-![Simplifying Fractions Calculator Calculation Results](/assets/images/screenshot-2.png "Simplifying Fractions Calculator Calculation Results")
 
 ## Installation
 
